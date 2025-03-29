@@ -1,4 +1,4 @@
-https://github.com/mjsswaroop/tic_tac_toe/blob/68746fdaf0b78900fee32552d8a996cb0371a670/screenshots/board.png
+
 # Tic-Tac-Toe Game
 
 A simple Tic-Tac-Toe game built using JavaScript, HTML, and CSS. Players take turns marking X or O on a 3x3 grid until a winner is determined or the game ends in a tie.
